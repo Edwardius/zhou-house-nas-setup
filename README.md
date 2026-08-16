@@ -31,6 +31,8 @@ The open-source equivalent to Google Drive. It allows you to access the NAS from
 
 **iPhone/Android:** install the **Nextcloud** app, tap Log in, and enter that same address. Tap Grant access when the browser opens.
 
+Once in, you will have a private drive for yourself, as well as access to a shared family drive to place family photos / documents in. 
+
 Log in with the Nextcloud username and password Eddy give you — *not* your Google/Apple account.
 
 **Photo backup:** Nextcloud app → Settings → Auto upload. Your camera roll backs up automatically on Wi-Fi.
