@@ -10,7 +10,7 @@ The following is a setup guide for joining the Zhou House Family NAS. This is an
 
 Tailscale is a small app that creates a private, encrypted connection between your devices and our home server. That way you can reach the family files from anywhere without any of it being exposed to the internet.
 
-1. **Accept the email invite** I sent you.
+1. (First time ever using Tailscale) **Accept the email invite** I sent you.
 2. **Download the app:** [tailscale.com/download](https://tailscale.com/download) — or search "Tailscale" in the App Store.
 3. **Sign in** with the same Google/Apple/Microsoft account you used on the invite. No new password.
 4. **Turn it on.** Allow the VPN prompt on phones — that's normal.
