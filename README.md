@@ -1,4 +1,4 @@
-# Zhou House NAS — Setup
+# Zhou House NAS
 
 The following is a setup guide for joining the Zhou House Family NAS. This is an invite-only NAS for relatives of the Zhou family :)
 
