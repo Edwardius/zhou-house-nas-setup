@@ -69,6 +69,12 @@ Anything in **Family Shared** is visible to everyone. Your own Drive is private 
 
 **Can't connect?** Open Tailscale and check if it says Connected.
 
+## Adding New Users
+Contact Eddy. It consists of:
+- Adding a new user to the Unraid Array
+- Adding a new user to Nextcloud
+
+
 **Password rejected?** Nextcloud and SMB have separate logins.
 
 **Still stuck?** Text Eddy with a screenshot.
