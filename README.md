@@ -23,7 +23,9 @@ You should now see **zhou-house-nas** in the app's device list.
 
 There are two ways to access files on the NAS.
 
-### Nextcloud
+### [Nextcloud](https://nextcloud.com/)
+
+The open-source equivalent to Google Drive. It allows you to access the NAS from a browser or on a phone.
 
 **Computer:** go to `https://zhou-house-nas.tail3c8d88.ts.net:8443` and bookmark it.
 
@@ -33,7 +35,7 @@ Log in with the Nextcloud username and password Eddy give you — *not* your Goo
 
 **Photo backup:** Nextcloud app → Settings → Auto upload. Your camera roll backs up automatically on Wi-Fi.
 
-### SMB
+### [SMB](https://visualitynq.com/resources/articles/what-is-smb-what-it-decision-makers-need-to-know/)
 
 SMB mounts the NAS as a network drive, so it shows up in your computer's Finder or File Explorer like a USB stick. Better for dragging around large files.
 
