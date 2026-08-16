@@ -4,9 +4,9 @@ The following is a setup guide for joining the Zhou House Family NAS. This is an
 
 **What is a NAS (Network Attached Storage)?** It's a computer whose sole purpose is to store files. Think of it as our own private Google Drive or iCloud, at a fraction of the cost.
 
-## Setup
+## One-Time Setup
 
-### (One Time) Install Tailscale
+### Install Tailscale
 
 Tailscale is a small app that creates a private, encrypted connection between your devices and our home server. That way you can reach the family files from anywhere without any of it being exposed to the internet.
 
