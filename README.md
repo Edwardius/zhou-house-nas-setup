@@ -33,6 +33,8 @@ The open-source equivalent to Google Drive. It allows you to access the NAS from
 
 Once in, you will have a private drive for yourself, as well as access to a shared family drive to place family photos / documents in. 
 
+> ALWAYS PLACE FILES INSIDE YOUR PRIVATE DRIVE OR THE FAMILY DRIVE.
+
 Log in with the Nextcloud username and password Eddy give you — *not* your Google/Apple account.
 
 **Photo backup:** Nextcloud app → Settings → Auto upload. Your camera roll backs up automatically on Wi-Fi.
